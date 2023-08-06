@@ -1,4 +1,4 @@
-﻿namespace WebAPI.Domain.Entities
+﻿namespace PersonalFinanceControl.Domain.Entities
 {
     public class Entry
     {

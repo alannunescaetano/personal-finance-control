@@ -1,6 +1,6 @@
-﻿using WebAPI.Domain.Entities;
+﻿using PersonalFinanceControl.Domain.Entities;
 
-namespace WebAPI.Application.DTOs
+namespace PersonalFinanceControl.Application.DTOs
 {
     public record EntryDTO
     {

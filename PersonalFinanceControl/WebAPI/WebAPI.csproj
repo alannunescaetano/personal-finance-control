@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Services\" />
-    <Folder Include="Domain\Exceptions\" />
-    <Folder Include="Persistence\" />
+    <Folder Include="Application\Mappers\" />
+    <Folder Include="Persistence\Interfaces\" />
+    <Folder Include="Persistence\Implementations\" />
   </ItemGroup>
 
 </Project>
